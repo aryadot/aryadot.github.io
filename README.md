@@ -1,7 +1,12 @@
 # Getting Started with Create React App
-
+Appointment Planner is a React application that allows users to manage contacts and schedule appointments.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Features
+
+- **Manage Contacts**: Add, update, and view all contacts.
+- **Schedule Appointments**: Create appointments with contacts and manage them.
+- **Responsive Design**: Accessible across devices.
 ## Available Scripts
 
 In the project directory, you can run:
